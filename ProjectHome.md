@@ -1,0 +1,1 @@
+# Moved to https://github.com/wtanaka/geo-ip-location due to google code shutdown #
